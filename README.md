@@ -7,13 +7,13 @@ the same as any other: open RuneLite, click the plug icon (Plugin Hub) in the si
 
 ## Plugins
 
-### [Bank Portfolio Tracker](https://github.com/2hBuilds/bank-portfolio-tracker)
+### [2h Bank Portfolio Tracker](https://github.com/2hBuilds/bank-portfolio-tracker)
 
 See what your bank is worth and how it moved over the last 1, 7, 30, 90 or 180 days. One row per item with its price and
 its change in gp and percent, a bank value card at the top, live Grand Exchange prices for actively traded items, your
 inventory and worn gear counted in, and sorting by percent, gp, item price or stack price.
 
-- Plugin Hub page: coming once the submission is merged
+- Plugin Hub page: [runelite.net/plugin-hub/show/bank-portfolio-tracker](https://runelite.net/plugin-hub/show/bank-portfolio-tracker)
 - Source and issues: [github.com/2hBuilds/bank-portfolio-tracker](https://github.com/2hBuilds/bank-portfolio-tracker)
 
 More plugins are on the way. Each one gets its own repository here with a full description, screenshots and an issue
@@ -21,4 +21,5 @@ tracker.
 
 ## Contact
 
-Found a bug or want a feature? Open an issue on the plugin's repository.
+Found a bug or have an idea? Join the [2hBuilds Discord](https://discord.gg/nsam4CfWzf), or open an issue on the
+plugin's repository.
