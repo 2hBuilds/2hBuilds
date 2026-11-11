@@ -24,6 +24,17 @@ Hover a broadcast in your chat for a card about it.
 
 [Plugin Hub page](https://runelite.net/plugin-hub/show/chat-hover-info) · [Source and issues](https://github.com/2hBuilds/chat-hover-info)
 
+## 2h Inventory Setups Quick Check
+
+One click at the bank: what's missing from your Inventory Setups setup.
+
+- A box of each missing item with its count
+- Bank items numbered with how many to take out
+- Potions that aren't full outlined, even with no setup open
+- 13 button looks and a live outline colour
+
+[Plugin Hub page](https://runelite.net/plugin-hub/show/inventory-quick-check) · [Source and issues](https://github.com/2hBuilds/inventory-quick-check)
+
 ## Contact
 
 Bugs or ideas: join the [2hBuilds Discord](https://discord.gg/nsam4CfWzf) or open an issue on the plugin's page.
