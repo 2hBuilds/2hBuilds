@@ -62,6 +62,16 @@ Says what caused the lag and what to do about it.
 
 [Plugin Hub page](https://runelite.net/plugin-hub/show/why-lag) · [Source and issues](https://github.com/2hBuilds/why-lag)
 
+## 2h Timed Tiles
+
+Numbered tile markers that fade out on a timer, shared with your party.
+
+- Hold a key and click the ground to place numbered markers, up to 20 at once
+- Each tile can show its number, a timer or nothing
+- Party members with the plugin see your markers in your colour
+
+[Plugin Hub page](https://runelite.net/plugin-hub/show/timed-tiles) · [Source and issues](https://github.com/2hBuilds/timed-tiles)
+
 ## Contact
 
 Bugs or ideas: join the [2hBuilds Discord](https://discord.gg/nsam4CfWzf) or open an issue on the plugin's page.
