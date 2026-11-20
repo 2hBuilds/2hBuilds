@@ -67,7 +67,7 @@ Says what caused the lag and what to do about it.
 Numbered tile markers that fade out on a timer, shared with your party.
 
 - Hold a key and click the ground to place numbered markers, up to 20 at once
-- Each tile can show its number, a timer or nothing
+- Each tile can show its number, a timer, a clock of the time left, or nothing, in your colour or one of your choice
 - Party members with the plugin see your markers in your colour
 
 [Plugin Hub page](https://runelite.net/plugin-hub/show/timed-tiles) · [Source and issues](https://github.com/2hBuilds/timed-tiles)
