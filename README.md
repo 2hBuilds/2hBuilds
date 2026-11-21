@@ -72,6 +72,16 @@ Numbered tile markers that fade out on a timer, shared with your party.
 
 [Plugin Hub page](https://runelite.net/plugin-hub/show/timed-tiles) · [Source and issues](https://github.com/2hBuilds/timed-tiles)
 
+## 2h Crowd Alarm
+
+Never miss the boat: an alert when the crowd is back for Pest Control, Tempoross and other minigames.
+
+- A small box shows how many players are around you; its border turns gold once your crowd size is reached
+- A second alert for lots of players arriving within a few seconds
+- Always off in the Wilderness and on PvP worlds
+
+[Plugin Hub page](https://runelite.net/plugin-hub/show/crowd-alarm) · [Source and issues](https://github.com/2hBuilds/crowd-alarm)
+
 ## Contact
 
 Bugs or ideas: join the [2hBuilds Discord](https://discord.gg/nsam4CfWzf) or open an issue on the plugin's page.
