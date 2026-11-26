@@ -82,6 +82,16 @@ Never miss the boat: an alert when the crowd is back for Pest Control, Tempoross
 
 [Plugin Hub page](https://runelite.net/plugin-hub/show/crowd-alarm) · [Source and issues](https://github.com/2hBuilds/crowd-alarm)
 
+## 2h Chatbox Controller
+
+Keep the top lines of your chatbox empty, so your infoboxes have room.
+
+- Pick 0 to 6 blank lines; the chatbox stays the same size and two lines of chat always show
+- Works in fixed, resizable classic and resizable modern, each with its own switch
+- Messages are never cut in half at the edge of the blank space
+
+[Plugin Hub page](https://runelite.net/plugin-hub/show/chatbox-controller) · [Source and issues](https://github.com/2hBuilds/chatbox-controller)
+
 ## Contact
 
 Bugs or ideas: join the [2hBuilds Discord](https://discord.gg/nsam4CfWzf) or open an issue on the plugin's page.
