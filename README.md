@@ -28,8 +28,9 @@ Hover a broadcast in your chat for a card about it.
 
 - Drops: the item's price, alch value and drop rates
 - Quests, combat tasks, pets, diaries, levels, kill counts and personal bests
+- Examine an item or monster for its card too
 - What a new level unlocks, and the wiki's first paragraph on every card
-- Right-click a line for "Open wiki" and "Copy"
+- Right-click a line for "Open wiki" and "Copy", or find it again in the sidebar's recent cards
 
 [Plugin Hub page](https://runelite.net/plugin-hub/show/chat-hover-info) · [Source and issues](https://github.com/2hBuilds/chat-hover-info)
 
